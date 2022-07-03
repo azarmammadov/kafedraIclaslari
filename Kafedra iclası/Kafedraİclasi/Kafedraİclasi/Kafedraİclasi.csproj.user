@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="isci_m.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mdaxet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Protokolagore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qerar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="qeydiyyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sdoicd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sgore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sistem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sistemdaxil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sobeleregore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarixegore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
